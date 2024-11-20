@@ -29,6 +29,7 @@ This repository showcases a unique blend of **AI-based decision-making** and **r
 |---|---|
 | resources/ | Assets for Pygame (images, sprites, etc.) |
 | media/ | Demonstration videos and screenshots |
+| notebook_files/ | Original my work on projects done in Jupyter Notebook |
 | pycache/ | Auto-generated cache (ignored in version control) |
 | agent.py | Agent movement and decision-making |
 | car_control.py | Car control for Raspberry Pi |
