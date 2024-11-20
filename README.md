@@ -26,7 +26,7 @@ This repository showcases a unique blend of **AI-based decision-making** and **r
 ## Project Structure
 ```bash
 |-- resources/ # Assets for Pygame (images, sprites, etc.) |-- media/ # Demonstration videos and screenshots |-- pycache/ # Auto-generated cache (ignored in version control) |-- agent.py # Agent movement and decision-making |-- car_control.py # Car control for Raspberry Pi |-- Detect_color.py # Color detection system for Raspberry Pi |-- final_game.py # AI-driven Wumpus World gameplay |-- logic.py # First-Order Logic implementation (AND, OR, NOT) |-- pygame_play.py # Manual Wumpus World gameplay using Pygame |-- run.py # Entry point for AI Wumpus World game |-- wumpus_world.py # Wumpus World mechanics, rules, and grid system
-
+```
 
 ---
 
