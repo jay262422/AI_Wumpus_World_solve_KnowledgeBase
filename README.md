@@ -45,15 +45,17 @@ This repository showcases a unique blend of **AI-based decision-making** and **r
 ## How to Run
 
 ### 1. **Wumpus World AI Game**
-  Run the AI-based Wumpus World simulation:
-     ```bash
-     python run.py
-
+   Run the AI-based Wumpus World simulation:
+   ```bash
+   python run.py
+   ```
 ### 2. **Manual Gameplay (Pygame)**
-  For an interactive experience:
-     ```bash
-     python pygame_play.py
-    Navigate using the arrow keys.
+   For an interactive experience:
+   ```bush
+   python pygame_play.py
+   ```
+   
+   Navigate using the arrow keys.
 
 ### 3. **Raspberry Pi Car Navigation**
 These scripts are designed to control a physical car using a Raspberry Pi setup. They enable real-time navigation based on color detection:
@@ -66,7 +68,7 @@ These scripts are designed to control a physical car using a Raspberry Pi setup.
 #### Steps to Run on Raspberry Pi:
 1. **Ensure Raspberry Pi setup with camera and motor drivers is complete.**
 2. **Run the color detection and control script:**
-   ```bash
+   ```
    python Detect_color.py
 3. **Watch the car navigate in response to the detected colors.**
 
