@@ -46,13 +46,13 @@ This repository showcases a unique blend of **AI-based decision-making** and **r
 
 ### 1. **Wumpus World AI Game**
   Run the AI-based Wumpus World simulation:
-    ```bash
-    python run.py
+     ```bash
+     python run.py
 
 ### 2. **Manual Gameplay (Pygame)**
   For an interactive experience:
-    ```bash
-    python pygame_play.py
+     ```bash
+     python pygame_play.py
     Navigate using the arrow keys.
 
 ### 3. **Raspberry Pi Car Navigation**
